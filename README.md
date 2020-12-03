@@ -1,5 +1,5 @@
-[![HitCount](http://hits.dwyl.io/kevinacquaah/React-Portfolio)
-![Star this repository](https://drive.google.com/drive/u/0/my-drive)
+[![HitCount ](http://hits.dwyl.io/kevinacquaah/React-Portfolio)
+![Star this repository](https://drive.google.com/file/d/1UjLs5fEAIeLYDohn4jL3iNB39I-RdDkP/view?usp=sharing)
 
 
 A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
