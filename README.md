@@ -5,7 +5,7 @@
 A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
 ## Preview
-![Preview](https://github.com/kevinacquaah/myportfolioapp/blob/main/public/images/header-background.jpg)
+![Preview](https://github.com/kevinacquaah/myportfolioapp/blob/main/public/images/portfolio/miles.png)
 
 
 ## How to use
