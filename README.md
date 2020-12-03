@@ -5,7 +5,7 @@
 A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
 ## Preview
-![Preview](miles.png)
+![Preview](https://image.ibb.co/e5uBf0/miles.png)
 
 
 ## How to use
